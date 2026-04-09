@@ -7,12 +7,14 @@ This repository contains my Data Structures and Algorithms (DSA) Lab work for 20
 So far, this repository includes implementations of:
 
 Single Linked List
+
 Doubly Linked List
 
 These implementations are written with a focus on understanding core concepts, logic building, and practical application of linked list operations.
 
 
 📂 Contents
+
 🔹 Single Linked List
 
 Implementation of a singly linked list where each node points to the next node.
@@ -21,8 +23,11 @@ Implementation of a singly linked list where each node points to the next node.
 Operations Covered:
 
 Insertion (at beginning, end, specific position)
+
 Deletion
+
 Traversal / Display
+
 Searching
 
 
@@ -34,20 +39,28 @@ Implementation of a doubly linked list where each node contains pointers to both
 Operations Covered:
 
 Insertion
+
 Deletion
+
 Forward Traversal
+
 Backward Traversal
 
 
 🎯 Objectives
 To understand the working of linear data structures
+
 To implement linked lists from scratch
+
 To improve problem-solving and programming skills
+
 To build a strong foundation in DSA for future learning and interviews
 
 
 🛠️ Technologies Used
+
 Programming Language: java
+
 IDE/Editor: vs code
 
 
@@ -57,8 +70,11 @@ IDE/Editor: vs code
 This repository will be updated with more DSA topics, including:
 
 Stacks & Queues
+
 Trees
+
 Graphs
+
 Sorting & Searching Algorithms
 
 📚 Note
